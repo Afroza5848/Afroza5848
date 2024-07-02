@@ -14,7 +14,9 @@ Skills: HTML5 / CSS3 / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL UI /
 - 📫 How to reach me: suriyaafroj5848@gmail.com 
 
 #Lets Contact
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js)](https://github.com/harish-sethuraman/readme-components)
+
+#
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node.js,express.js,firebase,mongodb,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ![Afroza Khatun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza5848&show_icons=true&theme=radical)
