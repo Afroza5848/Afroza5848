@@ -15,5 +15,6 @@ Skills: HTML5 / CSS3 / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL UI /
 
 #Lets Contact
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js)](https://github.com/harish-sethuraman/readme-components)
 
 ![Afroza Khatun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza5848&show_icons=true&theme=radical)
