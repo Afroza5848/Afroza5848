@@ -14,5 +14,5 @@ Skills: HTML5 / CSS3 / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL UI /
 - 📫 How to reach me: suriyaafroj5848@gmail.com 
 
 
-![Afroza Khatun GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza5848&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Afroza Khatun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza5848&show_icons=true&theme=radical)
