@@ -16,7 +16,7 @@ Skills: HTML5 / CSS3 / TAILWIND / BOOTSTRAP / JAVASCRIPT / REACT / MATERIAL UI /
 #Lets Contact
 
 #
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=node.js,express.js,firebase,mongodb,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind css,daisy ui)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=node.js,express.js,firebase,mongodb,react,)](https://skillicons.dev)
+
 
 ![Afroza Khatun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afroza5848&show_icons=true&theme=radical)
